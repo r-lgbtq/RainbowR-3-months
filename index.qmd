@@ -39,6 +39,8 @@ editor: source
 
 - have only posted/publicised one TidyRainbow dataset
 
+- could do with more people involved
+
 
 ## What next?
 
